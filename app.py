@@ -1,3 +1,7 @@
+print("abhi")
+print("AI")
+print("ML")
+print("DL")
 print("wait ")
 print ("Hello World")
 print ("Hello World")
