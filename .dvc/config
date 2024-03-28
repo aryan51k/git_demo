@@ -1,0 +1,4 @@
+[core]
+    remote = firebase
+['remote "firebase"']
+    url = gs://test-b0857.appspot.com/models
